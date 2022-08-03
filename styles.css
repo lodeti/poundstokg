@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+    background-color: rgb(181, 181, 181);
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header, main, footer {
+    border: solid black;
+    background-color:lightyellow;
+    border-radius: 10px;
+    margin: 0 25% 0 25%;
+    text-align: center;
+    padding: none;
+    -webkit-box-shadow: 5px 5px 15px 5px #a08888; 
+    box-shadow: 5px 5px 15px 5px #343030;
+
+}
+
+main img {
+    padding: 20px;
+}
+
+footer {
+    font-size: 9pt;
+}
